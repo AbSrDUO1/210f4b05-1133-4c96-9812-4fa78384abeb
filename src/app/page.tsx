@@ -26,7 +26,7 @@ export default function Home() {
       <div id="hero" data-section="hero" className="scroll-mt-24">
         <TokenBillboardHero
           title="Welcome to Xeven Solutions"
-          subtitle="Your gateway to innovative SaaS solutions."
+          subtitle="I am Subhadeep Roy Hahahahahah"
           contractAddress="0x..."
           copyButtonText="Copy Address"
           copiedText="Address Copied!"
@@ -36,8 +36,8 @@ export default function Home() {
         <SocialsAbout
           title="About Us"
           descriptions={[
-            "We provide cutting-edge solutions tailored to your needs.",
-            "Join us as we navigate the digital landscape."
+            "LALALALALALALALALALALA",
+            "Bruh dumb idiotsss"
           ]}
         />
       </div>
@@ -47,14 +47,14 @@ export default function Home() {
           steps={[
             { title: "Step 1", description: "Register your account", image: "", position: "left", isCenter: false },
             { title: "Step 2", description: "Verify your identity", image: "", position: "center", isCenter: true },
-            { title: "Step 3", description: "Make your purchase", image: "", position: "right", isCenter: false }
+            { title: "Step 3", description: "YOOOOOOOOOOOOOOOOOOOOO", image: "", position: "right", isCenter: false }
           ]}
         />
       </div>
       <div id="tokenomics" data-section="tokenomics" className="scroll-mt-24">
         <PatternTokenomics
           title="Tokenomics"
-          description="Explore our tokenomics structure to understand our value distribution."
+          description="qw3fqfqewfeokfmowekgnijwrgenfk"
           kpiItems={[
             { value: "100M", description: "Total Supply", icon: undefined },
             { value: "50M", description: "Circulated Supply", icon: undefined },
@@ -74,7 +74,7 @@ export default function Home() {
       </div>
       <div id="footer" data-section="footer" className="scroll-mt-24">
         <FooterLogo
-          logoSrc="/images/logo.svg"
+          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32Sjpo9ZLWlVS5JxRw9EagJf0Fo/tmp/a-cute-boy-logo-1759744555419-99565cfc.jpg"
           logoAlt="Xeven Solutions"
           logoText="Xeven Solutions"
           className=""
