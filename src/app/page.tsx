@@ -70,7 +70,6 @@ export default function Home() {
             { title: "What are the pricing options?", content: "We offer a range of pricing models..." },
             { title: "Is support available?", content: "Yes, 24/7 support is here for you!" }
           ]}
-          title="Frequently Asked Questions"
         />
       </div>
       <div id="footer" data-section="footer" className="scroll-mt-24">
