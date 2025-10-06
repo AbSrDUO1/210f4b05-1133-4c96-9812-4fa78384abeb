@@ -17,7 +17,7 @@ export default function Home() {
           logoSrc="/images/logo.svg"
           logoAlt="Xeven Solutions"
           leftButtonText="Get Started"
-          className=""            
+          className=""
           containerClassName=""
           logoClassName=""
           buttonClassName=""
