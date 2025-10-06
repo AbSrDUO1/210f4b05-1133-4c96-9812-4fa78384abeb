@@ -56,9 +56,9 @@ export default function Home() {
           title="Tokenomics"
           description="Explore our tokenomics structure to understand our value distribution."
           kpiItems={[
-            { value: "100M", description: "Total Supply", icon: "" },
-            { value: "50M", description: "Circulated Supply", icon: "" },
-            { value: "10M", description: "Reserved for Team", icon: "" }
+            { value: "100M", description: "Total Supply", icon: undefined },
+            { value: "50M", description: "Circulated Supply", icon: undefined },
+            { value: "10M", description: "Reserved for Team", icon: undefined }
           ]}
         />
       </div>
